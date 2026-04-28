@@ -1,0 +1,114 @@
+[
+  {
+    "id": "1",
+    "title": "查询200条sn用户提问",
+    "instance": "quickbi用",
+    "database": "sigma-search",
+    "sql_file": "sql/scenario-01.sql",
+    "notes": "1、create_time表示创建时间，不能写NOW()，如果需要修改查询时间，就修改这个字段；\n2、LIMIT表示查询到200条，可删除；"
+  },
+  {
+    "id": "2",
+    "title": "用户对玻尔全站的反馈",
+    "instance": "quickbi用",
+    "database": "account_center",
+    "sql_file": "sql/scenario-02.sql",
+    "notes": "1、create_time表示创建时间，不能写NOW()，如果需要修改查询时间，就修改这个字段；"
+  },
+  {
+    "id": "3",
+    "title": "会话级别查询天级创建session数量",
+    "instance": "quickbi用",
+    "database": "sigma-search",
+    "sql_file": "sql/scenario-03.sql",
+    "notes": "1、创建时间不能写NOW()，如需修改查询时间，请修改create_time字段；\n2、统计的是冷表和热表；\n3、web: 桌面浏览器端（PC/Mac）访问的网页产品；mobile: 移动端“非网页”渠道，一般指原生 App 或内嵌在 App 的交互渠道；h5: 移动端网页形态（如手机浏览器、App WebView、微信内置浏览器等的轻应用页面）；h5的数据都归类到web里面；\n4、AND COALESCE(s.meta->>'$.source','') <> 'openApi'表示过滤掉开放API的数据"
+  },
+  {
+    "id": "4",
+    "title": "question级别查询天级创建question session数量",
+    "instance": "quickbi用",
+    "database": "sigma-search",
+    "sql_file": "sql/scenario-04.sql",
+    "notes": "1、创建时间不能写NOW()，如需修改查询时间，请修改create_time字段；\n2、统计的是冷表和热表；\n3、web: 桌面浏览器端（PC/Mac）访问的网页产品；mobile: 移动端“非网页”渠道，一般指原生 App 或内嵌在 App 的交互渠道；h5: 移动端网页形态（如手机浏览器、App WebView、微信内置浏览器等的轻应用页面）；h5的数据都归类到web里面；\n4、AND COALESCE(s.meta->>'$.source','') <> 'openApi'表示过滤掉开放API的数据"
+  },
+  {
+    "id": "5",
+    "title": "天级平台统计数",
+    "instance": "quickbi用",
+    "database": "sigma-search",
+    "sql_file": "sql/scenario-05.sql",
+    "notes": "1、创建时间不能写NOW()，如需修改查询时间，请修改create_time字段；\n2、统计的是冷表和热表；\n3、web: 桌面浏览器端（PC/Mac）访问的网页产品；mobile: 移动端“非网页”渠道，一般指原生 App 或内嵌在 App 的交互渠道；h5: 移动端网页形态（如手机浏览器、App WebView、微信内置浏览器等的轻应用页面）；h5的数据都归类到web里面；\n4、AND COALESCE(s.meta->>'$.source','') <> 'openApi'表示过滤掉开放API的数据"
+  },
+  {
+    "id": "6",
+    "title": "会话级别查询月级创建session数量",
+    "instance": "quickbi用",
+    "database": "sigma-search",
+    "sql_file": "sql/scenario-06.sql",
+    "notes": "1、创建时间不能写NOW()，如需修改查询时间，请修改create_time字段；\n2、统计的是冷表和热表；\n3、web: 桌面浏览器端（PC/Mac）访问的网页产品；mobile: 移动端“非网页”渠道，一般指原生 App 或内嵌在 App 的交互渠道；h5: 移动端网页形态（如手机浏览器、App WebView、微信内置浏览器等的轻应用页面）；h5的数据都归类到web里面；\n4、AND COALESCE(s.meta->>'$.source','') <> 'openApi'表示过滤掉开放API的数据"
+  },
+  {
+    "id": "7",
+    "title": "question级别查询月级创建question session数量",
+    "instance": "quickbi用",
+    "database": "sigma-search",
+    "sql_file": "sql/scenario-07.sql",
+    "notes": "1、创建时间不能写NOW()，如需修改查询时间，请修改create_time字段；\n2、统计的是冷表和热表；\n3、web: 桌面浏览器端（PC/Mac）访问的网页产品；mobile: 移动端“非网页”渠道，一般指原生 App 或内嵌在 App 的交互渠道；h5: 移动端网页形态（如手机浏览器、App WebView、微信内置浏览器等的轻应用页面）；h5的数据都归类到web里面；\n4、AND COALESCE(s.meta->>'$.source','') <> 'openApi'表示过滤掉开放API的数据"
+  },
+  {
+    "id": "8",
+    "title": "不同用户类型的使用不同模式的session数",
+    "instance": "quickbi用",
+    "database": "sigma-search",
+    "sql_file": "sql/scenario-08.sql",
+    "notes": "3月以上留存用户的create_time需要根据当前系统时间修改"
+  },
+  {
+    "id": "9",
+    "title": "AI小导师的用户点赞查询",
+    "instance": "quickbi用",
+    "database": "account_center",
+    "sql_file": "sql/scenario-09.sql",
+    "notes": "AI小导师的上线时间为2026-03-25 22:00:00，如需修改查询时间，请修改create_time字段"
+  },
+  {
+    "id": "10",
+    "title": "AI小导师的用户点踩查询",
+    "instance": "quickbi用",
+    "database": "account_center",
+    "sql_file": "sql/scenario-10.sql",
+    "notes": "AI小导师的上线时间为2026-03-25 22:00:01，如需修改查询时间，请修改create_time字段"
+  },
+  {
+    "id": "11",
+    "title": "AI小导师的用户点赞点踩联查",
+    "instance": "quickbi用",
+    "database": "account_center",
+    "sql_file": "sql/scenario-11.sql",
+    "notes": "AI小导师的上线时间为2026-03-25 22:00:02，如需修改查询时间，请修改create_time字段"
+  },
+  {
+    "id": "12",
+    "title": "AI小导师的用户评分查询",
+    "instance": "quickbi用",
+    "database": "account_center",
+    "sql_file": "sql/scenario-12.sql",
+    "notes": "AI小导师的上线时间为2026-03-25 22:00:03，如需修改查询时间，请修改create_time字段"
+  },
+  {
+    "id": "13",
+    "title": "AI小导师的会话（session）数、问题（question）数及用户原生query",
+    "instance": "bohrium-opik-test",
+    "database": "public",
+    "sql_file": "sql/scenario-13.sql",
+    "notes": "AI小导师的上线时间为2026-03-25 22:00:04，如需修改查询时间，请修改create_time字段"
+  },
+  {
+    "id": "14",
+    "title": "AI小导师的分享情况",
+    "instance": "quickbi用",
+    "database": "sigma-search",
+    "sql_file": "sql/scenario-14.sql",
+    "notes": "1、AI小导师的上线时间为2026-03-25 22:00:04，如需修改查询时间，请修改create_time字段\n2、share字段为0表示没有分享该会话，share字段为1表示分享该会话，过滤掉的user_id是公司内部测试人员的账号"
+  }
+]

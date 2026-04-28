@@ -1,0 +1,237 @@
+query,discipline,journal_type
+10.1016/J.PLAPHY.2024.109238,All,both
+请帮我找关于优化算法可信度的研究,All,both
+数据中心相干光互连在DSP信道损伤补偿方面的主要瓶颈,All,both
+近年关于钠离子电池负极的英文文献,All,both
+总结近三年mRNA疫苗在实体肿瘤的应用,All,both
+俯冲带如何开始形成、循环挥发性物质并产生陆壳的国内研究现状,All,both
+植物提取物膜分离工艺研究,All,both
+过氧化苯甲酰热引发丙烯酸酯聚合,All,both
+萜烯类化合物生物传感器,All,both
+DFT计算如何应用于Ti合金储氢性能优化,All,both
+材料计算在金刚石/铜复合材料的应用,All,both
+有机溶剂反渗透（OSRO）的原理和应用有哪些？,All,both
+请给我推荐一些高引用的文献并概括文章主要内容，我需要他们的研究发现，社会经济地位是影响公共健康的关键因素之一。低收入群体往往面临更高的健康风险，如更高的发病率、死亡率以及更差的健康状况。,All,both
+碳材料作为吸附剂载体的应用,All,both
+化工废碱液制备地聚合物,All,both
+AI如何改进精神疾病的诊断？,All,both
+谷氨酸棒杆菌甲苯响应启动子,All,both
+碳材料作为吸附剂载体变压吸附二氧化碳,All,both
+稳定自由基在化学、生物医学、材料学等领域的意义,All,both
+溶源性噬菌体感染宿主菌后，遗传物质以噬菌体原存在于宿主菌内，不仅无法引起宿主菌裂解，还会增大耐药基因传播和宿主菌毒力上升的风险 出自哪篇文献,All,both
+平板绕流在明渠中的研究现状,All,both
+DFT computations and molecular dynamics investigations on conformers of some pyrazinamide derivatives as corrosion inhibitors for aluminum,All,both
+环戊二烯基自由基在热解过程中反应机理,All,both
+Oligoribonuclease的功能，其是否与RNA合成有关或者病毒的复制？,All,both
+如何设计一个火灾烟雾场景下的对近红外数据和热红外数据进行时间对齐和空间对齐的算法,All,both
+糖尿病在中国的最新发病率是多少？,All,both
+高维数据中稀疏性结构如何统计推断？,All,both
+噬菌体抑制病原菌的机制,All,both
+胞外聚合物对矿物的影响,All,both
+Cu-SSZ-13中的NH3-TPD中，6MR的活性铜离子吸附氨的能力强，还是8MR的活性铜离子吸附氨的能力强？,All,both
+我在设计新型的无污染的太阳能三元半导体材料银铋硫，请你参考钙钛矿的合成方法，帮我设计一下这种三元半导体的合成路线，并标注论文出处,All,both
+我之前的工作是关于如何合成银铋硫量子点，帮我看看我之后的工作研究方向可能有哪些,All,both
+复杂网络理论是什么,All,both
+苹果酸在苹果果实中的主要代谢途径是什么？,All,both
+是否存在一种导电不导热且密度比铁低的材料,All,both
+热电应用中有哪些不错的材料体系,All,both
+镁合金中各种元素的作用,All,both
+帮我生成一个关于生物信息学的系统学习计划，包括基础知识、工具使用、前沿研究等,All,both
+支持“axSpA BASMI更多反映结构性损伤，而非当前功能状态”的文献,All,both
+双硫仑（disulfiram）用作农用杀菌剂的文献支撑,All,both
+阅览期刊《Science Advances》和《Advanced Science》所有2024年的文献，找出所有和糖化学或糖生物学相关的文献,All,both
+固态电池,All,both
+全麻手术术后并发症研究热点,All,both
+"随着微机电系统（MEMS）与无线传感网络的迅速发展，其在结构健康监测等领域的应用日趋广泛。然而，部署于复杂环境中的传感节点常面临供电困难的问题，依赖传统电池不仅更换成本高，也存在可持续性不足的缺陷。在此背景下，从环境中采集振动能并转化为电能，逐渐成为一项具有潜力的替代方案[1]。在多种能量采集技术中，压电俘能器因具备结构简单、能量密度高以及无电磁干扰等优势，受到广泛关注[2]。 早期研究多聚焦于线性共振型压电俘能器，然而其工作频带较窄，难以适应实际环境中常见的宽频、随机振动特性[3]。为提高对环境振动的适应能力，非线性振动能量采集技术逐步发展，其中基于磁力耦合的双稳态系统因能在较宽频带内维持大幅振荡而引起研究者重视[4]。在结构设计方面，弹性放大器[5]等新型结构被用于优化应变分布、降低系统启动阈值；同时，优化压电梁的几何形状与分层结构[6]，也被证实对俘能器刚度及能量转换效率具有显著影响[6]。 为满足微机电系统对器件小型化的严格要求，本文设计了一种双稳态多层叠合梁压电俘能器。通过优化压电梁的分层结构，在约束端集成质量块、垂直弹簧和弹性基座，在不增大梁尺寸的前提下调整弯曲刚度，从而有效提升输出功率。同时引入非线性磁力耦合机制，显著拓宽了工作频带，增强了在宽频、随机振动环境中的能量捕获能力，为复杂应用场景下实现高效自供能提供了新思路。给我按我给的标号找我所需要的六篇中文参考文献，要求可以替换下面六篇文献的，且时间在2022到2024的[1]	Chen G ,Shi W ,Yu L , et al.Wireless Sensor Placement Optimization for Bridge Health Monitoring: A Critical Review[J].Buildings,2024,14(3):
+[2]	Jia Y .Review of nonlinear vibration energy harvesting: Duffing, bistability, parametric, stochastic and others[J].Journal of Intelligent Material Systems and Structures,2020,31(7):921-944.
+[3]	Altaf H ,Wenming C ,Junyi C , et al.Numerical analysis and experimental validation of nonlinear broadband monostable and bistable energy harvesters[J].Communications in Nonlinear Science and Numerical Simulation,2024,131107808-.
+[4]	Wang M ,Wu H ,Zhang J , et al.Multi-magnet coupled bistable piezoelectric energy harvesters for performance enhancement[J].Energy,2024,306132452-132452.
+[5]	Wang G ,Liao W ,Yang B , et al.Dynamic and energetic characteristics of a bistable piezoelectric vibration energy harvester with an elastic magnifier[J].Mechanical Systems and Signal Processing,2018,105427-446.
+[6]	Hoon K C ,Yeol H P ,S. J H , et al.Structure–performance relationships for cantilever-type piezoelectric energy harvesters[J].Journal of Applied Physics,2014,115(20):204108-204108.",All,both
+"帮我为这段话寻找参考文献，数量控制在10-20篇：锂离子电池的高能量密度、良好的循环性能以及完备的工业制造基础，使其在全球交通电气化和电网规模的能源存储、以及电动汽车( EVs )等场景得到了广泛的应用。然而根据国际能源署预测，随着电池需求的指数增长，到2030年市场需求预计将达到3.5 TWh。然而原料锂矿分布极度不均衡，全球66 %的锂储量资源都集中在""锂三角"" (智利、阿根廷、玻利维亚)，这使得原料价格难以长期稳定维持在一定范围内，例如电池级碳酸锂价格从2020年的6000美元/ t飙升至2023年的83000美元/ 吨，导致整个电池产业链成本暴增，暴露了锂供应链的结构脆弱性。引发了开发锂离子电池替代或补充产品的迫切呼声。
+钠离子电池( SIBs )作为一种技术上可行的替代及补充，利用了2.36 wt %地壳丰度的钠元素及其在地理上的均匀分布，使成本与地缘政治波动解耦。此外，与锂电池类似的""摇椅""机制和兼容的电极制造工艺使70 - 80 %的设备与现有的锂离子电池生产线兼容，从而大幅减少了巨型工厂产线转换的资本支出。
+尽管如此，钠离子电池的商业化仍然面临着源于阳极电化学的关键性能差距。由于钠-石墨层间化合物的热力学不稳定性，作为锂离子电池负极材料的石墨表现出可忽略不计的储钠容量( < 35 mAh g⁻¹)，故不适合作为钠离子电池的负极。硬碳是一种具有扩大层间距( 0.37~0.40nm)和封闭纳米孔隙的无序乱层碳，基于目前的研究，硬碳作为钠离子电池的负极能提供250-400 mAh g-1的可逆容量，是商用钠离子电池负极的优良备选材料。然而，它的推广应用受到两个相互关联的缺陷的限制：一是本征较低的初始库伦效率( ICE ) ( 75-85 % )，这是由于过多的固体电解质界面( SEI )的形成和不可逆的Na+被截留在封闭的孔中造成的；其二是长期循环能力不足，尤其是在高电流密度下(在≥500mA g-1下循环1000次后< 70 %的保持率)。特别的，ICE的缺陷直接转化为在全电池水平上20-30 %的能量密度丧失，中和了SIBs的成本优势，并将其降级到低能量密度的应用中，例如两轮车和备用电源。
+目前针对钠离子电池硬碳材料已进行了大量的研究，为了提升硬碳材料在钠离子电池中的表现，主流地对前驱体及衍生硬碳采用的处理方法有酸碱刻蚀、杂原子掺杂、化学活化以及CVD处理等，这些处理方式能从一个或多个方面改善硬碳材料的结构或组成，从而提高首效、比容量、循环稳定性等关键参数中的一个或多个。但这些方法不可避免的具有一些缺点，例如使用KOH或H3PO4进行蚀刻，会产生强腐蚀性废水，从而增加废液处理成本，抵消生物质前驱体的低成本优势。此外，化学蚀刻的随机性导致批次间重现性差，无法满足储能、汽车电池供应链所要求的均匀性标准。高温物理处理，例如用于氮/磷掺杂的化学气相沉积（使用NH3、PH3等前驱体），需要超过50 kWh/kg的能源输入，并且涉及有毒、易燃的气体，需要特殊的密闭保护系统。中试规模的CVD反应器成本高昂（年产能100公斤的设备需50万至80万美元），这使其在经济上无法满足预计到2030年对钠离子电池负极超过10万吨/年的需求。水热碳化法虽然条件较为温和，但需要在高压反应釜（>2 MPa, 180-250°C）中操作，存在与化学合成法类似的安全风险和在放大生产方面的限制。",All,both
+"寻找一篇应用（稳定性核算同位素探针技术DNA-SIP技术）实验方法的文章
+稳定性同位素核酸探针技术DNA-SIP(Stable isotope probing)是讲复杂环境中微生物物种组成及其上午功能耦合分析的有力工具，请查找该技术在微生物生态学研究中的具体应用的研究论文，并说明其用该技术解决的具体问题。
+文献作者：
+文献题目：
+杂志和发表时间、页码信息：
+摘要：
+应用这个实验的目的，得到什么结果，",All,both
+查找一下TPP双光子聚合3d打印技术做的三维神经网络结构相关的文献，能找到近期的最好，我们实验室有vanguard的sonata仪器，可以做,All,both
+序贯贝叶斯核素识别,All,both
+当代棒材轧制技术,All,both
+AI in Orthopaedics,All,both
+应用化学专业文献,All,both
+马铃薯中赤霉素和脱落酸的信号通路,All,both
+请告诉我物理学专业名词”匀场线圈“的专业翻译，并给我提供摘要中含该名词的高质量学术论文。,All,both
+找出这段话可能引用的文献，给出文献链接，不要编文献：相比之下声学测量技术的应用更加广泛，它通过声波的传播和反射特性来捕捉波浪的频率、波高和方向信息。目前常采用声学多普勒流速剖面仪（Acoustic Doppler Current Profiler，ADCP）进行水下波浪动力学特性的测量。其具有在深水环境中避免表面干扰，并长期稳定工作的优点。但也面临信号衰减和噪声干扰等问题，尤其在复杂波流作用场中如何实时且精确的解耦波浪信号与流速信号并去掉噪声信号是一大技术难点。此外，因水下视角受限，设定测量精度及覆盖范围需要在成本与效率之间取得动态平衡。,All,both
+用于PET醇解的Cu基催化剂,All,both
+微生物固定化技术虽然在提高PGPR存活率和功效方面潜力巨大，但实际应用中仍面临许多问题，如固定化材料的性能、产品的稳定性、大规模应用的可行性等。 帮我找几篇关于这个论点的引用文献，要求文献中必须实实在在地提到了PGPR也就是植物根际促生菌和微生物固化技术这两点才行，你要是给我的文献中找不到我会给你差评投诉,All,both
+NaCl signaling pathway in plants.,All,both
+木质纤维素酶,All,both
+SuperDARN雷达预测电离层等离子体对流速度的论文,All,both
+Digital twin of battery,All,both
+帮我寻找一些关于中子能谱解谱时间分辨率的论文,All,both
+production of oxidized cellulose,All,both
+西南极的地质构造,All,both
+"1.highly soluble with controlled release ability.
+Cucurbit[7]uril as a possible 
+2.nanocarrier for the antichagasic benznidazole: a computational approach.
+3.Host–guest inclusion systems of nedaplatin with cucurbit[7]uril for improved in?vitro antitumour activity. 
+4.Efficient Fenton degradation of perylene diimide dye promoted by a catalytic amount of cucurbit[8]uril.
+5.Heteroternary cucurbit[8]uril complexes as supramolecular scafolds for self-assembled bifunctional photoredoxcatalysts.
+6.Covalent cucurbit[7]uril-dye conjugates for sensing in aqueous saline media and 
+biofuids.
+7.Pyridine detection using supramolecular organic frameworks incorporating cucurbit[10]uril.
+8.Solid-Supported amplifcation of aggregation emission: a tetraphenylethylene-cucurbit[6]uril@hydroxyapatite-based supramolecular sensing assembly for the detection of spermine and spermidine 
+in human urine and blood.
+9.Acyclic cucurbit[n]uril-type receptors: optimization of electrostatic interactions
+ for dicationic guests.
+10.Acyclic cucurbit[n]uril type receptors: aromatic wall extension enhances 
+binding afnity, delivers helical chirality, and enables fuorescence sensing.
+11.Chirality sensing of terpenes, steroids, amino acids, peptides and drugs with 
+acyclic cucurbit[n]urils and molecular tweezers.
+12.Chiroptical sensing of amino acids, amines, amino alcohols, alcohols and terpenes with π-extended acyclic cucurbiturils.
+13.Improved solubility and stability of rifampicin as an inclusion complex of acyclic cucurbit[n]uril.
+14.Calabadion 1 selectively reverses respiratory and central nervous 
+system efects of fentanyl in a rat model.
+15.Infuence of cyclic and acyclic cucurbiturils on the degradation pathways of the chemical warfare agent VX.
+22年至今与这十五篇文献相关的开环葫芦脲研究领域的新研究方向有哪些",All,both
+预量子化丛上闭Reeb轨道的多重性：the existence and multiplicity of closed Reeb orbits in prequantization bundles,All,both
+"I am developing a project to test the efficiency of calcium alginate beads to be used a as complete soil substitute. The beads will contain Nitrogen, Phosphorus and Potassium in individually formulated beads. Has any scientific research reported on this?",All,both
+mathematics anxiety in education gender difference and self esteem,All,both
+Applications of nanocellulose,All,both
+哪种涂层能提升钛合金耐磨性？,All,both
+如何制造世界上最坚硬的物质,All,both
+量子计算何时能破解现有加密算法？,All,both
+拉马努金的所有公式有什么？,All,both
+六氟异丙醇溶液中的苄基自由基有哪些已知反应模式？,All,both
+大数法则的拓展如何实现？,All,both
+"Analisis penggunaan pengolahan kimia dalam air bersih, khususnya pada proses klorinasi dan ozonisasi. Apa dampak jangka panjang terhadap kualitas air dan kesehatan masyarakat di sekitar kita?",All,both
+4nm芯片是怎么做出来了的,All,both
+柚子皮的香味来源,All,both
+表面羟基在氧化铝催化中的作用是什么？,All,both
+铂电阻式的流量传感器制程工艺和工作原理以及应用？,All,both
+在量子重力和全息原理的框架下，宇宙的本质是否能归结为信息处理的过程？,All,both
+黑洞信息悖论如何解决？,All,both
+短波通信频率空间预测还有什么创新点吗,All,both
+暗物质与暗能量的本质是什么？,All,both
+3D光固化打印中，打印的杆径要比设计值小的原因是什么呢,All,both
+反物质是什么？,All,both
+What are the directions for quantum computing algorithms?,All,both
+自来水处理中高锰酸盐指数和三卤甲烷有什么规律性关系吗？,All,both
+简要阐述量子纠缠,All,both
+如何避免烧开水过程中形成的水垢粘结在基材表面？,All,both
+铝合金适合DIW方式3D打印吗,All,both
+有机金属框架能通过化学热解法制备金属氧化物吗？,All,both
+用监测接收机进行授时解算以及用卫星双向时间比对等方法，哪种时间比对方式更加可靠？为什么？,All,both
+聚类分析相关的科学家，和聚类分析的发展历程。重点在于介绍提出kmeans聚类算法的科学家和聚类分析的应用,All,both
+贝叶斯非参数模型在复杂数据中的可扩展性？,All,both
+你是一个化学、净化工程专家，对化学物质及净化工程系统非常精通，目前遇到一个问题需要你进行分析：一个车间的净化工程中使用的是水系统空调，加注的是乙二醇防冻液，水箱在室外且是开口的，运行一段时间后，水系统管路出现锈蚀较严重的情况，放出来的防冻液铁锈铁渣很多，请分析原因,All,both
+量子计算的算法发展方向是什么？,All,both
+What are the applications of octonions to physics?,All,both
+盐桥原电池中，负极失电子原理是什么,All,both
+模型充氢后抗拉强度应该如何变化？为什么?,All,both
+What continuum mechanics?,All,both
+工程化生物材料的最新研究进展,All,both
+能源技术公众认知偏差如何影响铝离子电池社会接受度？,All,both
+查询含吲哚骨架的抗肿瘤化合物的学术论文报道,All,both
+稀疏推断在药物疗效估计中的应用实践，特别是使用PSM进行混杂剔除,All,both
+查询光催化CO2还原为甲醇的反应机理在论文中的理论研究,All,both
+评估近年来废弃聚酯（如PET）化学回收技术在工业化放大过程中面临的主要工程与热力学瓶颈。要求结合2023年以来的高被引文献，分析酶催化降解路径与传统化学醇解路径的发展前景及商业化潜力对比。,All,both
+假设我准备启动一个课题：‘利用机器学习加速无机晶体热电材料的筛选’。请你一步步帮我把这个模糊想法拆成一套可执行的研究计划：1）先基于近 5 年文献，概括目前主流的热电材料候选体系和常用机器学习思路（列出代表性论文和 DOI）；2）在不依赖自建超大算力平台的前提下，设计一条从数据获取、特征构造、模型选择到验证实验的完整技术路线，每一步都要写清“具体要做什么”“最低配置要求是什么”；3）指出这条路线中最容易踩坑的 3 个环节，并给出可操作的规避策略及对应文献依据。,All,both
+告诉我因果效应估计的整体流程，整理成实验步骤发给我,All,both
+结合最新的研究论文，对比基于深度学习的机器学习势函数（MLFF）与传统密度泛函理论（DFT）在处理大规模聚合物体系分子动力学模拟时的计算精度与算力消耗，并指出MLFF目前在复杂溶剂环境或极端反应条件下难以突破的物理边界。,All,both
+铝离子电池常用的电解液是什么,All,both
+在并发系统中，如何判断一组更新操作是否构成阿贝尔群？,All,both
+低温合成石墨烯表面功能化如何提升免疫载体靶向精度？,All,both
+近五年关于有机电催化氧化醇为醛/酮的高质量综述,All,both
+光催化降解全氟化合物（PFAS）的反应机理与关键活性物种,All,both
+过硫酸盐活化体系中单原子催化剂的作用机理,All,both
+胺捕集二氧化碳后电化学转化的代表性文献,All,both
+六氟磷酸锂在碳酸酯电解液中的分解路径,All,both
+生物质平台分子5-HMF氧化制FDCA的催化体系,All,both
+有机小分子光热转换材料的分子设计原则,All,both
+胶束催化在水相有机反应中的应用,All,both
+离子液体萃取芳烃的机理研究,All,both
+点击化学在药物递送中的最新进展,All,both
+COF用于有机污染物吸附与催化降解的研究进展,All,both
+过氧化物引发烯烃聚合机理,All,both
+多相Fenton-like体系中铁循环机制,All,both
+胺类挥发性有机物吸附-催化一体化去除,All,both
+木质素解聚制芳香化学品的反应网络,All,both
+电化学氮还原生成氨的副反应抑制策略,All,both
+吡啶N-氧化物的选择性还原路线,All,both
+硼酸酯动态共价化学在自修复体系中的应用,All,both
+深共熔溶剂萃取稀土元素的配位机理,All,both
+光氧化还原催化构建C-N键的代表性文献,All,both
+有机氟化反应中选择性控制机制,All,both
+二氧化碳环加成制环状碳酸酯的催化研究,All,both
+多孔炭负载酸碱双功能位点在酯交换反应中的作用,All,both
+磷酸化反应中常用活化剂的机理比较,All,both
+酚醛树脂热解成炭机理,All,both
+多糖衍生物交联水凝胶的化学构筑策略,All,both
+表面活性剂辅助乳液聚合的动力学模型,All,both
+无机盐析效应对液液萃取分离的影响,All,both
+钯催化C-H活化构建杂环的最新进展,All,both
+氧化铝表面酸碱位对醇脱水反应的影响,All,both
+超分子主客体识别在化学传感中的应用,All,both
+量子传感的发展方向有哪些,All,both
+超导量子比特退相干机制,All,both
+中微子振荡实验的最新进展,All,both
+强激光场下高次谐波产生机理,All,both
+室温二维磁性材料的物理机制,All,both
+自旋轨道耦合如何影响拓扑材料性质,All,both
+引力波探测的关键物理原理和技术瓶颈,All,both
+高维因果发现方法的研究综述,All,both
+图神经网络中的贝叶斯不确定性估计,All,both
+稀疏回归在组学数据分析中的统计推断,All,both
+非参数经验贝叶斯方法在小样本问题中的应用,All,both
+最优传输理论在机器学习中的数学基础,All,both
+生存分析中的因果效应估计流程,All,both
+随机优化算法的收敛性证明有哪些主流路线,All,both
+变分推断与MCMC的理论比较,All,both
+时间序列异常检测中的状态空间模型,All,both
+低秩矩阵恢复的经典理论与应用,All,both
+凸优化中的拉格朗日对偶如何理解,All,both
+图模型中的消息传递算法原理,All,both
+蒙特卡洛方法的方差缩减技术,All,both
+交换性与de Finetti定理的直观解释,All,both
+Wasserstein距离在生成模型中的作用,All,both
+数学上如何理解扩散模型的逆过程,All,both
+贝叶斯层次模型在多中心研究中的可扩展性,All,both
+钠离子电池正极层状氧化物的结构稳定化策略,All,both
+固态电解质界面工程最新研究,All,both
+高熵合金的相稳定性预测,All,both
+MXene在电磁屏蔽材料中的应用,All,both
+金属有机骨架衍生碳材料用于储能,All,both
+钛合金增材制造后热处理对组织性能影响,All,both
+钙钛矿太阳能电池界面层材料设计,All,both
+柔性热电材料的最新体系,All,both
+导热绝缘高分子复合材料,All,both
+硅基负极体积膨胀抑制策略,All,both
+水系锌离子电池正极材料,All,both
+二维过渡金属硫族化合物缺陷工程,All,both
+生物可降解医用材料表面改性,All,both
+超疏水耐腐蚀涂层材料设计,All,both
+陶瓷基复合材料抗热震机制,All,both
+金刚石薄膜沉积与界面结合,All,both
+镁合金晶粒细化机制与合金化设计,All,both
+高导热石墨膜制备路线,All,both
+无铅压电材料体系综述,All,both
+金属泡沫在吸能结构中的应用,All,both
+透明导电薄膜替代ITO的新材料,All,both
+低维卤化物半导体发光材料,All,both
+硫化物固态电池电解质的空气稳定性,All,both
+锂金属负极保护层材料,All,both
+碳纤维增强树脂基复合材料层间增韧,All,both
+水凝胶电子皮肤材料体系,All,both
+高温合金涂层抗氧化失效机制,All,both
+相变储能材料封装技术,All,both
+MOF衍生金属氧化物气敏材料,All,both
+半导体量子点发光二极管材料稳定性,All,both
+稀土掺杂陶瓷发光材料,All,both
+低介电常数封装材料研究进展,All,both
+锂硫电池隔膜功能化材料设计,All,both
